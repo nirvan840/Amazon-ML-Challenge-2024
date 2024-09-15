@@ -24,5 +24,5 @@
 * Contains the same `Kaggle_Notebook 1_Amazon ML_Nirvan.ipynb` and `Kaggle_Notebook 2_Amazon ML_Priyansh.ipynb` as above
 
 ### Miscellaneous 
-* `combine.ipynb`, `combine_final_all_cols.ipynb`, `combine_priyansh.ipynb` contain code to combine .csv files and produce <br>
+* `combine.ipynb`, `combine_final_all_cols.ipynb`, `combine_priyansh.ipynb` contain code to combine .csv files and produce
   a .csv as required by the rules.
