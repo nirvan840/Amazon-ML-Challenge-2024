@@ -1,14 +1,20 @@
 # Tensor Titans - Amazon ML [Challenge '24](https://unstop.com/hackathons/amazon-ml-challenge-amazon-1100713/coding-challenge/200089) | [Standings](https://unstop.com/hackathons/amazon-ml-challenge-amazon-1100713/coding-challenge/200089)
 > ### BITS Pilani K K Birla Goa Campus <br>
+> #### Our Standings - [**22nd / 74,843 Teams**](https://unstop.com/hackathons/amazon-ml-challenge-amazon-1100713/coding-challenge/200089)
 > Nirvan Patil  <br>
 > Priyansh <br>
 > Pranjay
 
 ## Problem Statement & Approach
-![image](https://github.com/user-attachments/assets/1e8d218e-6669-4cef-b6a0-992168af053c)
+<img src="https://github.com/user-attachments/assets/1e8d218e-6669-4cef-b6a0-992168af053c" alt="Description" width="750" height="400">
+
+## Final Results 
+> #### F1 Score - **0.6793**
+
+<img src="https://github.com/user-attachments/assets/307af941-7d46-47c3-827e-1c07ea70e5b8" alt="Description" width="750" height="350">
 
 
-## Directory Information
+## GitHub Directory Details
 
 ### `Amazon ML - Review Document`
 * PDF document providing an overview of our submission
