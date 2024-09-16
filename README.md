@@ -1,5 +1,5 @@
 # Tensor Titans - Amazon ML [Challenge '24](https://unstop.com/hackathons/amazon-ml-challenge-amazon-1100713/coding-challenge/200089) | [Standings](https://unstop.com/hackathons/amazon-ml-challenge-amazon-1100713/coding-challenge/200089)
-> ### BITS Pilani K. K. Birla Goa Campus <br>
+> ### BITS Pilani, K. K. Birla Goa Campus <br>
 > #### Our Standings - [**22nd / 74,843 Teams**](https://unstop.com/hackathons/amazon-ml-challenge-amazon-1100713/coding-challenge/200089)
 > Nirvan Patil  <br>
 > Priyansh <br>
