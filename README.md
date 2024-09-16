@@ -13,16 +13,24 @@
 
 ### `Kaggle_Notebook 1_Amazon ML_Nirvan.ipynb`
 * Jupyter notebook containing code for generating test.csv values on entity_name: height, width, depth
-* OCR -> Custom Line Detection -> Basic Regex -> Write to csv file
+* OCR -> Custom Line Detection -> Basic Regex -> Write to `.csv` file
 
 ### `Kaggle_Notebook 2_Amazon ML_Priyansh.ipynb`
 * Jupyter notebook containing code for generating test.csv values on entity_name: weight, wattage, voltage & volume
-* OCR -> Custom Regex -> Write to csv file
+* OCR -> Custom Regex -> Write to `.csv` file
 
 ### `Tensor Titans - Amazon ML - Submission/Primary Code (ipynb)`
-> Similar to the folder uploaded on Unstop as part of best submission
-* Contains the same `Kaggle_Notebook 1_Amazon ML_Nirvan.ipynb` and `Kaggle_Notebook 2_Amazon ML_Priyansh.ipynb` as above
+* Contains the same `Kaggle_Notebook 1_Amazon ML_Nirvan.ipynb` and `Kaggle_Notebook 2_Amazon ML_Priyansh.ipynb`. <br>
+These contain the code for the primary logic (OCR + Regex + Line Detection).
 
-### Miscellaneous 
-* `combine.ipynb`, `combine_final_all_cols.ipynb`, `combine_priyansh.ipynb` contain code to combine .csv files and produce
-  a .csv as required by the rules.
+### `Tensor Titans - Amazon ML - Submission/Primary Code (ipynb)`
+* Contains `.csv` files representing different versions of our submission files on Unstop.
+* `test_FINAL_500AM.csv` is the file corresponding to our best F1 score.
+
+### `Tensor Titans - Amazon ML - Submission/CSV Operations`
+* Contains `.ipynb` files with code for different operations on .csv files using **pandas**.
+* `combine.ipynb`: Code for preparing .csv in the required output format given .csv containing data <br>
+for the first and second half.
+* `combine_abscence.ipynb`: Code for **removing missing/incorrect units** from prepared .csv file.
+* `combine_priyansh.ipynb`: Code for for preparing .csv in the required output format given given multiple <br>
+`.csv` files each containing a part of the answer.
