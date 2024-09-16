@@ -5,9 +5,11 @@
 > Priyansh <br>
 > Pranjay
 
+.
 ## Problem Statement & Approach
 <img src="https://github.com/user-attachments/assets/1e8d218e-6669-4cef-b6a0-992168af053c" alt="Description" width="750" height="400">
 
+.
 ## Final Results 
 > ### F1 Score - **0.6793** (on test_original.csv)
 > **Predictions**: 83355/131187 | **Filled**: 38.852 %
@@ -26,6 +28,7 @@ our Custom Line Detection Algorithm (_described in detail in the `Amazon ML - Re
 Keeping all predictions corresponding to `depth` as empty gave us the best result.
 
 
+.
 ## GitHub Directory Details
 
 ### `Amazon ML - Review Document`
@@ -53,5 +56,10 @@ These contain the code for the primary logic (OCR + Regex + Line Detection).
 * `combine.ipynb`: Code for preparing .csv in the required output format given .csv containing data <br>
 for the first and second half.
 * `combine_abscence.ipynb`: Code for **removing missing/incorrect units** from prepared .csv file.
-* `combine_priyansh.ipynb`: Code for for preparing .csv in the required output format given given multiple <br>
-`.csv` files each containing a part of the answer.
+* `combine_priyansh.ipynb`: Code for preparing .csv in the required output format given given multiple <br>
+`.csv` files, each containing a part of the answer.
+
+.
+## Conclusion
+
+To conclude, by utilizing PaddleOCR for text extraction and implementing **Custom Regex** and **Line Detection Algorithms**, we efficiently address resource limitations while extracting key dimensions and values. This streamlined approach, with minimal GPU dependency, reduced processing time to approximately** ~0.2 seconds per image**, enabling large-scale data generation in a practical and resource-efficient manner without relying on heavy vision models.
