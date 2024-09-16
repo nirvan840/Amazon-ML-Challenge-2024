@@ -28,7 +28,7 @@ These contain the code for the primary logic (OCR + Regex + Line Detection).
 
 ### `Tensor Titans - Amazon ML - Submission/Primary Code (ipynb)`
 * Contains `.csv` files representing different versions of our submission files on Unstop.
-* `test_FINAL_500AM.csv` is the file corresponding to our best F1 score.
+* `cleaned_FINAL.csv` is the file corresponding to our best F1 score.
 
 ### `Tensor Titans - Amazon ML - Submission/CSV Operations`
 * Contains `.ipynb` files with code for different operations on .csv files using **pandas**.
