@@ -4,6 +4,9 @@
 > Priyansh <br>
 > Pranjay
 
+## Problem Statement & Approach
+![image](https://github.com/user-attachments/assets/1e8d218e-6669-4cef-b6a0-992168af053c)
+
 
 ## Directory Information
 
