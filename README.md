@@ -9,11 +9,15 @@
 <img src="https://github.com/user-attachments/assets/1e8d218e-6669-4cef-b6a0-992168af053c" alt="Description" width="750" height="400">
 
 ## Final Results 
-> #### F1 Score - **0.6793** (on test_original.csv)
+> ### F1 Score - **0.6793** (on test_original.csv)
+> **Predictions**: 83355/131187 | **Filled**: 38.852 %
 
 <img src="https://github.com/user-attachments/assets/307af941-7d46-47c3-827e-1c07ea70e5b8" alt="Description" width="750" height="350">
 
-* Our algorithms and logic fill most rows for `entity_name`: `height`, `width` demonstrating the strength of <br>
+* We achieved an F1 score of 0.679 despite having only 38.85% of entries filled. This indicates that most <br>
+**most** of the **entires** filled **are True Positives**.
+
+* Our algorithms and logic fill most rows for `entity_name`: `height`, `width`, demonstrating the strength of <br>
 our Custom Line Detection Algorithm (_described in detail in the `Amazon ML - Review Document`_)
 
 * Images with `entity_name` as `volume` show promising entries filled %. Owing to the strength of our optimized PaddleOCR.
