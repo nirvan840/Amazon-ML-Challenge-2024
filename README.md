@@ -9,14 +9,14 @@
 <img src="https://github.com/user-attachments/assets/1e8d218e-6669-4cef-b6a0-992168af053c" alt="Description" width="750" height="400">
 
 ## Final Results 
-> #### F1 Score - **0.6793**
+> #### F1 Score - **0.6793** (on test_original.csv)
 
 <img src="https://github.com/user-attachments/assets/307af941-7d46-47c3-827e-1c07ea70e5b8" alt="Description" width="750" height="350">
 
 * Our algorithms and logic fill most rows for `entity_name`: `height`, `width` demonstrating the strength of <br>
 our Custom Line Detection Algorithm (_described in detail in the `Amazon ML - Review Document`_)
 
-* `volume` shows promising entires filled %, owing to our optimized PaddleOCR.
+* Images with `entity_name` as `volume` show promising entries filled %. Owing to the strength of our optimized PaddleOCR.
   
 * **Limitations** - Initial outputs for images with `entity_name` as `depth` were poor when checked manually. <br>
 Keeping all predictions corresponding to `depth` as empty gave us the best result.
