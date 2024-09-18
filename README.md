@@ -62,4 +62,4 @@ for the first and second half.
 .
 ## Conclusion
 
-To conclude, by utilizing PaddleOCR for text extraction and implementing **Custom Regex** and **Line Detection Algorithms**, we efficiently address resource limitations while extracting key dimensions and values. This streamlined approach, with minimal GPU dependency, reduced processing time to approximately** ~0.2 seconds per image**, enabling large-scale data generation in a practical and resource-efficient manner without relying on heavy vision models.
+To conclude, by utilizing PaddleOCR for text extraction and implementing **Custom Regex** and **Line Detection Algorithms**, we efficiently address resource limitations while extracting key dimensions and values. This streamlined approach, with minimal GPU dependency, reduced processing time to **~0.2 seconds per image**, enabling large-scale data generation in a practical and resource-efficient manner without relying on heavy vision models.
